@@ -1,5 +1,5 @@
 {
-  "name": "jorijn/symfony-bunq-bundle",
+  "name": "janmisker/symfony-bunq-bundle",
   "description": "A Symfony 3.4 LTS compatible Bundle for interaction with the European bunq bank",
   "type": "library",
   "require": {
